@@ -1,0 +1,17 @@
+{
+  "name": "wp-gpt",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot uses GPT",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [],
+  "license": "APACHE-2.0",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.58.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}

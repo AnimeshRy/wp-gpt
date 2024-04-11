@@ -1,6 +1,6 @@
 # Whatsapp Chat GPT
 
-Whatsapp Chat GPT is a simple Whatsapp bot that consuming OpenIA API. You can make your questions and get your responses inside Whatsapp.
+Whatsapp Chat GPT is a simple Whatsapp bot that consuming OpenAI API. You can make your questions and get your responses inside Whatsapp.
 
 ## Technologies
 
